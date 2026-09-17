@@ -70,8 +70,8 @@ section h2 {
 }
 
 .home-photo img {
-    width: 280px;
-    height: 380px;
+    width: 250px;
+    height: 350px;
     object-fit: cover;
     border-radius: 10%;
 }
