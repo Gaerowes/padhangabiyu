@@ -55,11 +55,25 @@ section h2 {
 }
 
 /* HOME */
+
 .home {
     min-height: 80vh;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     background-color: white;
+    gap: 50px;
+}
+
+.home-text {
+    max-width: 600px;
+}
+
+.home-photo img {
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
 .home h1 {
