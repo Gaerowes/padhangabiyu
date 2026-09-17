@@ -71,7 +71,7 @@ section h2 {
 
 .home-photo img {
     width: 280px;
-    height: 280px;
+    height: 380px;
     object-fit: cover;
     border-radius: 10%;
 }
